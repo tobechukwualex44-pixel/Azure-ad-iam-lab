@@ -1,0 +1,20 @@
+# Documentation-only repository ignores
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.*
+
+# OS generated files
+._*
+
+# Temporary files
+*.tmp
+*.log
